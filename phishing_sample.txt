@@ -1,0 +1,28 @@
+From: security-alert@college-verify.example
+
+To: aritrapal31955@gmail.com
+
+Subject: URGENT: Your College Account Will Be Suspended!
+
+Date: 06 November 2026
+
+Dear Student,
+
+We have detected unusual login activity associated with your college account.
+
+Your account has been flagged for a security verification check.
+
+To prevent account suspension, please review the security alert using the following link:
+SUSPICIOUS URL – DO NOT OPEN
+
+http://college-security-verify.example-login.test/account/check?id=928471
+Untrusted URL
+
+
+Failure to complete verification within 24 hours may result in temporary account restrictions.
+
+Regards,
+
+College IT Security Department
+
+Fictional email for cybersecurity awareness and phishing detection testing only.
